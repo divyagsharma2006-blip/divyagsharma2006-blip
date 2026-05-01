@@ -1,6 +1,13 @@
 # 💫 About Me:
-Second-year Computer Engineering student passionate about IoT and software development<br>Skilled in C, C++, Python, JavaScript, and web technologies<br>Focused on building real-world, startup-oriented projects<br>Hackathon participant with hands-on project experience<br>Always learning, building, and improving problem-solving skills
+Hey! I'm a Computer Engineering student who loves turning ideas into working software.
+💡 I enjoy:
+- Coding in C, Python, and Java  
+- Building web apps with HTML, CSS, JavaScript  
+- Exploring game development with Godot
+  
+🎯 My goal is to continuously learn, improve problem-solving skills, and create impactful real-world projects.
 
+⚡ Fun fact: I enjoy combining creativity with logic to build unique projects!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_s.divyaaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divya-sharma-57673536b) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/divyagsharma07) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Unique_Complex973) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyagsharma2006@gmail.com) 
