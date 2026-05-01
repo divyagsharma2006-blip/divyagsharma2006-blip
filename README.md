@@ -3,7 +3,7 @@ Hey! I'm a Computer Engineering student who loves turning ideas into working sof
 💡 I enjoy:
 - Coding in C, Python, and Java  
 - Building web apps with HTML, CSS, JavaScript  
-- Exploring game development with Godot
+-  Exploring problem-solving and data structures 
   
 🎯 My goal is to continuously learn, improve problem-solving skills, and create impactful real-world projects.
 
